@@ -4,7 +4,7 @@ ABOUT THE PROJECT - This project aims to solve the problems of old people genera
                     They have the necssary ingredients but their age is a limit due to which they cannot cook their food properly.
                     It also aims to ease the busy schedule lifestyle of people.
                     This product is not full fledged developed but I develped a working model of the same.
-WORKING - The user have to choose from the lcd that what food i to be made from a  list of choices.
+WORKING - The user have to choose from the lcd that what food is to be made from a  list of choices.
            The user have to then put ingredients in the cups mounted on a wooden framework.
            The gas/chulha is place in the middle of the wooden framework.
            The temperature sensor keeps on checking the temperature and once optimum temperature is reached for that food
